@@ -1,0 +1,11 @@
+C:\Aplicaciones\suma-de-multiplos-generalizada-jmsandovalp1\obj\Debug\netcoreapp2.0\suma-de-multiplos-generalizada-jmsandovalp1.csprojResolveAssemblyReference.cache
+C:\Aplicaciones\suma-de-multiplos-generalizada-jmsandovalp1\obj\Debug\netcoreapp2.0\suma-de-multiplos-generalizada-jmsandovalp1.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\suma-de-multiplos-generalizada-jmsandovalp1\obj\Debug\netcoreapp2.0\suma-de-multiplos-generalizada-jmsandovalp1.AssemblyInfoInputs.cache
+C:\Aplicaciones\suma-de-multiplos-generalizada-jmsandovalp1\obj\Debug\netcoreapp2.0\suma-de-multiplos-generalizada-jmsandovalp1.AssemblyInfo.cs
+C:\Aplicaciones\suma-de-multiplos-generalizada-jmsandovalp1\bin\Debug\netcoreapp2.0\suma-de-multiplos-generalizada-jmsandovalp1.deps.json
+C:\Aplicaciones\suma-de-multiplos-generalizada-jmsandovalp1\bin\Debug\netcoreapp2.0\suma-de-multiplos-generalizada-jmsandovalp1.runtimeconfig.json
+C:\Aplicaciones\suma-de-multiplos-generalizada-jmsandovalp1\bin\Debug\netcoreapp2.0\suma-de-multiplos-generalizada-jmsandovalp1.runtimeconfig.dev.json
+C:\Aplicaciones\suma-de-multiplos-generalizada-jmsandovalp1\bin\Debug\netcoreapp2.0\suma-de-multiplos-generalizada-jmsandovalp1.dll
+C:\Aplicaciones\suma-de-multiplos-generalizada-jmsandovalp1\bin\Debug\netcoreapp2.0\suma-de-multiplos-generalizada-jmsandovalp1.pdb
+C:\Aplicaciones\suma-de-multiplos-generalizada-jmsandovalp1\obj\Debug\netcoreapp2.0\suma-de-multiplos-generalizada-jmsandovalp1.dll
+C:\Aplicaciones\suma-de-multiplos-generalizada-jmsandovalp1\obj\Debug\netcoreapp2.0\suma-de-multiplos-generalizada-jmsandovalp1.pdb
